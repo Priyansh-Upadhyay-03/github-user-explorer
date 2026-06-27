@@ -10,7 +10,7 @@ A simple and responsive web application built with **HTML, CSS, and Vanilla Java
 
 ## 👤 Details Page
 
-![Details Page](.Details.png)
+![Details Page](./Details.png)
 
 ### Home Page
 
